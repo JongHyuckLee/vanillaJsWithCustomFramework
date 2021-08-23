@@ -1,0 +1,1 @@
+출처 :https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Component/#_5-%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%A9%E1%84%82%E1%85%A5%E1%86%AB%E1%84%90%E1%85%B3-%E1%84%87%E1%85%AE%E1%86%AB%E1%84%92%E1%85%A1%E1%86%AF
